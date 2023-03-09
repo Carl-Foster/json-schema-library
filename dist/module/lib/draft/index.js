@@ -131,3 +131,4 @@ export class Draft {
         return this.config.validate(this, data, schema, pointer);
     }
 }
+//# sourceMappingURL=index.js.map

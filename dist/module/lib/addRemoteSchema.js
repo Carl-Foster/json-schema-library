@@ -7,3 +7,4 @@ export default function addRemoteSchema(draft, url, schema) {
     schema.id = schema.id || url;
     draft.remotes[url] = draft.compileSchema(schema);
 }
+//# sourceMappingURL=addRemoteSchema.js.map

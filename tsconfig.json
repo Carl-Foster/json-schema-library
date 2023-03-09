@@ -9,6 +9,7 @@
         "allowSyntheticDefaultImports": true,
         "moduleResolution": "node",
         "noImplicitAny": true,
+        "sourceMap": true,
         "lib": ["DOM", "ES2018"]
     },
     "include": ["index.ts", "lib/**/*"]

@@ -13,3 +13,4 @@ export default function resolveRef(schema, rootSchema) {
     const resolvedSchema = rootSchema.getRef(schema);
     return resolvedSchema;
 }
+//# sourceMappingURL=resolveRef.strict.js.map

@@ -10,3 +10,4 @@ export default function getTypeOf(value) {
     }
     return type;
 }
+//# sourceMappingURL=getTypeOf.js.map

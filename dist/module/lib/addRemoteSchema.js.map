@@ -1,0 +1,1 @@
+{"version":3,"file":"addRemoteSchema.js","sourceRoot":"","sources":["../../../lib/addRemoteSchema.ts"],"names":[],"mappings":"AAGA;;;;GAIG;AACH,MAAM,CAAC,OAAO,UAAU,eAAe,CAAC,KAAY,EAAE,GAAW,EAAE,MAAkB;IACjF,MAAM,CAAC,EAAE,GAAG,MAAM,CAAC,EAAE,IAAI,GAAG,CAAC;IAC7B,KAAK,CAAC,OAAO,CAAC,GAAG,CAAC,GAAG,KAAK,CAAC,aAAa,CAAC,MAAM,CAAC,CAAC;AACrD,CAAC"}

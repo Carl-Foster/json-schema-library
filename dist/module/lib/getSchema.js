@@ -32,3 +32,4 @@ function _get(draft, schema, frags, pointer, data = emptyObject) {
     data = data[key]; // step data
     return _get(draft, schema, frags, `${pointer}/${key}`, data);
 }
+//# sourceMappingURL=getSchema.js.map

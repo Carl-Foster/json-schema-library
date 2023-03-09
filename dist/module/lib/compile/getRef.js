@@ -69,3 +69,4 @@ export default function getRef(context, rootSchema, $ref) {
     }
     return schema;
 }
+//# sourceMappingURL=getRef.js.map

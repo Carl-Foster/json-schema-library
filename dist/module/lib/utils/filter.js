@@ -8,3 +8,4 @@ export function errorOrPromise(error) {
 export function errorsOnly(error) {
     return isJSONError(error);
 }
+//# sourceMappingURL=filter.js.map

@@ -19,3 +19,4 @@ export default function getChildSchemaSelection(core, property, schema = core.ro
     }
     return [result];
 }
+//# sourceMappingURL=getChildSchemaSelection.js.map

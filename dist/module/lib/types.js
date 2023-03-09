@@ -5,3 +5,4 @@
 export function isJSONError(error) {
     return (error === null || error === void 0 ? void 0 : error.type) === "error";
 }
+//# sourceMappingURL=types.js.map

@@ -42,3 +42,4 @@ export function eachSchema(schema, callback, pointer = "#") {
         eachDefinition(walk, schema, pointer, "$defs");
     }
 }
+//# sourceMappingURL=eachSchema.js.map

@@ -16,3 +16,4 @@ export default function splitRef($ref) {
     result[1] = `#${result[1].replace(suffixes, "")}`;
     return result;
 }
+//# sourceMappingURL=splitRef.js.map

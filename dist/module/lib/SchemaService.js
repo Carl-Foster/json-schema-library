@@ -51,3 +51,4 @@ export default class SchemaService {
         return schema;
     }
 }
+//# sourceMappingURL=SchemaService.js.map

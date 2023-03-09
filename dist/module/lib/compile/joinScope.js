@@ -22,3 +22,4 @@ export default function joinScope(previous, id) {
     }
     return `${previous.replace(trailingFragments, "")}/${id.replace(trailingHash, "")}`;
 }
+//# sourceMappingURL=joinScope.js.map

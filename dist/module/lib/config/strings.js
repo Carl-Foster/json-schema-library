@@ -54,3 +54,4 @@ export default {
     UnknownPropertyError: "Could not find a valid schema for property `{{pointer}}` within object",
     ValueNotEmptyError: "A value for `{{property}}` is required at `{{pointer}}`"
 };
+//# sourceMappingURL=strings.js.map

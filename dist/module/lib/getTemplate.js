@@ -341,3 +341,4 @@ export default (core, data, schema = core.rootSchema, opts = defaultOptions) => 
     cache = { mi: {} };
     return getTemplate(core, data, schema, "#", opts);
 };
+//# sourceMappingURL=getTemplate.js.map

@@ -21,3 +21,4 @@ export function createError(name, data) {
 export function createCustomError(name) {
     return createError.bind(null, name);
 }
+//# sourceMappingURL=createCustomError.js.map

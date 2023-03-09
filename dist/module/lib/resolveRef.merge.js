@@ -10,3 +10,4 @@ export default function resolveRefMerge(schema, rootSchema) {
     Object.defineProperty(mergedSchema, "getRoot", { enumerable: false, value: schema.getRoot });
     return mergedSchema;
 }
+//# sourceMappingURL=resolveRef.merge.js.map

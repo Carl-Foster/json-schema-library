@@ -45,3 +45,4 @@ export default function getTypeId(schema) {
     }
     throw new Error(`Mutiple typeIds [${ids.join(", ")}] matched in ${JSON.stringify(schema)}`);
 }
+//# sourceMappingURL=getTypeId.js.map

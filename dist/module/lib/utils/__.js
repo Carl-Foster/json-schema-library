@@ -11,3 +11,4 @@ export default function __(keyword, data, fallback = keyword) {
     const template = strings[keyword] || fallback;
     return render(template, data);
 }
+//# sourceMappingURL=__.js.map

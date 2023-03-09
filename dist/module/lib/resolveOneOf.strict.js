@@ -78,3 +78,4 @@ export default function resolveOneOf(core, data, schema = core.rootSchema, point
         errors
     });
 }
+//# sourceMappingURL=resolveOneOf.strict.js.map

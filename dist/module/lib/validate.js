@@ -61,3 +61,4 @@ export default function validate(core, value, schema = core.rootSchema, pointer 
     // @ts-ignore
     return errors.filter(errorOrPromise);
 }
+//# sourceMappingURL=validate.js.map

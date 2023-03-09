@@ -10,3 +10,4 @@ export default function flattenArray(list, result = []) {
     }
     return result;
 }
+//# sourceMappingURL=flattenArray.js.map

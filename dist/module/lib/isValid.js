@@ -10,3 +10,4 @@
 export default function isValid(core, value, schema = core.rootSchema, pointer = "#") {
     return core.validate(value, schema, pointer).length === 0;
 }
+//# sourceMappingURL=isValid.js.map

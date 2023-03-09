@@ -28,3 +28,4 @@ draftJsonEditorConfig, // adjusted config of draft04 to better support the json-
 createError, createCustomError, getTypeOf, // returns the javascript datatype
 isJSONError, render, resolveAllOf, resolveRef, resolveRefMerge, resolveOneOf, resolveOneOfFuzzy, settings, SchemaService, validateAsync // async validation of data by a schema
  };
+//# sourceMappingURL=index.js.map

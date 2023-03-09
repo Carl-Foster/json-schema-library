@@ -41,3 +41,4 @@ export default function ucs2decode(string) {
     }
     return output;
 }
+//# sourceMappingURL=punycode.ucs2decode.js.map

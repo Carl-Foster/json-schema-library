@@ -20,3 +20,4 @@ export default function createSchemaOf(data) {
     }
     return schema;
 }
+//# sourceMappingURL=createSchemaOf.js.map

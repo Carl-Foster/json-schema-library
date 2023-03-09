@@ -4,3 +4,4 @@ export default {
     floatingPointPrecision: 10000,
     propertyBlacklist: ["_id"]
 };
+//# sourceMappingURL=settings.js.map

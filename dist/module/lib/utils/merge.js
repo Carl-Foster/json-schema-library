@@ -13,3 +13,4 @@ const mergeUniqueItems = (destinationArray, sourceArray) => {
  * returns a new json-schema, where properties are combined and arrays are replaced
  */
 export const mergeArraysUnique = (a, b) => deepmerge(a, b, { arrayMerge: mergeUniqueItems });
+//# sourceMappingURL=merge.js.map

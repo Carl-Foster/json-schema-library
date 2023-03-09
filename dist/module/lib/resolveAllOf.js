@@ -42,3 +42,4 @@ export default function resolveAllOf(draft, data, schema = draft.rootSchema, poi
     delete mergedSchema.allOf;
     return mergedSchema;
 }
+//# sourceMappingURL=resolveAllOf.js.map

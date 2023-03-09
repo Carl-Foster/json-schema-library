@@ -52,3 +52,4 @@ export default {
     format: addFormat,
     keyword: addKeyword
 };
+//# sourceMappingURL=addValidator.js.map

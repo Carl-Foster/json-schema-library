@@ -17,3 +17,4 @@ export default function resolveAnyOf(core, data, schema = core.rootSchema, point
     delete mergedSchema.anyOf;
     return mergedSchema;
 }
+//# sourceMappingURL=resolveAnyOf.js.map

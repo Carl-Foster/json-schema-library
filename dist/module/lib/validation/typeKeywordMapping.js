@@ -13,3 +13,4 @@ export default {
     number: ["enum", "format", "maximum", "minimum", "multipleOf", "not", "oneOf", "allOf", "anyOf"],
     null: ["enum", "format", "not", "oneOf", "allOf", "anyOf"]
 };
+//# sourceMappingURL=typeKeywordMapping.js.map

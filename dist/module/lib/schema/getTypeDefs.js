@@ -38,3 +38,4 @@ export default function getTypeDefs(schema) {
     });
     return defs;
 }
+//# sourceMappingURL=getTypeDefs.js.map

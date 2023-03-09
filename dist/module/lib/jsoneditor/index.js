@@ -14,3 +14,4 @@ class JsonEditor extends Draft {
     }
 }
 export { JsonEditor, draftJsonEditorConfig };
+//# sourceMappingURL=index.js.map

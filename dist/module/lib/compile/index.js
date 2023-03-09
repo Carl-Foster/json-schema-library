@@ -84,3 +84,4 @@ export default function compileSchema(draft, schemaToCompile, rootSchema = schem
     // console.log(JSON.stringify(context.ids, null, 2));
     return compiledSchema;
 }
+//# sourceMappingURL=index.js.map

@@ -109,3 +109,4 @@ export default function resolveOneOf(core, data, schema = core.rootSchema, point
     }
     return core.errors.oneOfError({ value: JSON.stringify(data), pointer, oneOf: schema.oneOf });
 }
+//# sourceMappingURL=resolveOneOf.fuzzy.js.map

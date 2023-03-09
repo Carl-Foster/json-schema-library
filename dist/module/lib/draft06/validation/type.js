@@ -29,3 +29,4 @@ const validationType = {
         .map((key) => core.validateKeyword[key](core, schema, value, pointer))
 };
 export default validationType;
+//# sourceMappingURL=type.js.map

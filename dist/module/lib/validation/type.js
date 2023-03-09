@@ -29,3 +29,4 @@ const typeValidators = {
         .map(key => core.validateKeyword[key](core, schema, value, pointer))
 };
 export default typeValidators;
+//# sourceMappingURL=type.js.map

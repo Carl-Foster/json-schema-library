@@ -98,3 +98,4 @@ class Draft04 extends Draft {
     }
 }
 export { Draft04, draft04Config };
+//# sourceMappingURL=index.js.map

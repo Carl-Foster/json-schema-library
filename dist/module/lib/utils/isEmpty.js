@@ -15,3 +15,4 @@ export function isEmpty(v) {
             return false;
     }
 }
+//# sourceMappingURL=isEmpty.js.map
